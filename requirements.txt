@@ -2,7 +2,7 @@ streamlit
 scikit-learn
 pandas
 numpy
-opencv-python
+opencv-python-headless==<version>
 matplotlib
 reportlab
 joblib
