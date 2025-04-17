@@ -1,10 +1,9 @@
 streamlit
 scikit-learn
 pandas
-numpy
-opencv-python-headless==4.5.5.64
+numpy>=1.24.0
+opencv-python-headless==4.5.5.64  # Use opencv-python if GUI/webcam is needed
 matplotlib
 reportlab
 joblib
 fpdf
-
